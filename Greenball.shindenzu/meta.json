@@ -1,0 +1,12 @@
+{
+  "name": "でんでん心電図",
+  "codename": "shindenzu",
+  "artist": "ぺぽよ",
+  "musicFile": "shindenzu.mp3",
+  "inRanking": 15,
+  "chartIN": "Chart_IN.json",
+  "illustration": "shindenzu.jpg",
+  "chartDesigner": "羽毛球awa",
+  "illustrator": "ぺぽよ",
+  "sliceAudioStart": "75"
+}
